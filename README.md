@@ -16,11 +16,9 @@ a simple runtime disassembler written in C
 - easily detectable
 - noisy!
 
-# some funny bugs
-[imagem_2024-02-22_152519185](https://github.com/antiglory/simple-disasm/assets/104264903/322a170b-a7ee-423f-b4c4-5e170879007c)
-
-
 # compiling
 - gcc -o main main.c
+
+! it has some bugs, but you can ignore them !
 
 ! for educational porpuses/contexts only !
