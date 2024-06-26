@@ -1,4 +1,3 @@
-// does not use any system headers (except unistd)
 // this is very noisy, in some scenarios, the detection capacity is considerable
 
 #include <stdio.h>
